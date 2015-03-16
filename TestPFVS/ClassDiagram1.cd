@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestPFVS.Program" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestPFVS.Boekenrek">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAKAQAAAAAAIAAEAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Boekenrek.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TestPFVS.Boek">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAABACAAIQAAIAMAAEAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Boek.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TestPFVS.Genre">
+    <Position X="4.25" Y="5.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAABAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Genre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestPFVS.Leesboek">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABACAAAAAAAAAAACEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Leesboek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestPFVS.Woordenboek">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEBACAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Woordenboek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestPFVS.Doel">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="TestPFVS.Doel.Cat">
+        <TypeIdentifier>
+          <NewMemberFileName>Doel.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAACBAgAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Doel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TestPFVS.IVoorwerpen">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IVoorwerpen.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
